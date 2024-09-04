@@ -1,0 +1,5 @@
+python=@PYTHON_PATH@python.exe
+python3=@PYTHON_PATH@python.exe
+/usr/bin/python=@PYTHON_PATH@python.exe
+/usr/bin/python3=@PYTHON_PATH@python.exe
+:Python:E::py::python3:
